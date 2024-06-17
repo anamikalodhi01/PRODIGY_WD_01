@@ -1,4 +1,4 @@
-Stopwatch Web Application
+## Task-02: Stopwatch Web Application
 
 ### Description
 
@@ -6,12 +6,12 @@ To build a stopwatch web application, using HTML, CSS, and JavaScript. HTML is u
 
 ### Features
 
-Start, Pause, and Reset: Basic functionalities to control the stopwatch.
-Lap Times: Track and display multiple lap times.
-User-Friendly Interface: An interactive and easy-to-use interface.
+- **Start, Pause, and Reset**: Basic functionalities to control the stopwatch.
+- **Lap Times**: Track and display multiple lap times.
+- **User-Friendly Interface**: An interactive and easy-to-use interface.
 
 ### Technologies Used
 
-HTML: To structure the web application.
-CSS: To style the web application.
-JavaScript: To implement the functionality of the stopwatch.
+- **HTML**: To structure the web application.
+- **CSS**: To style the web application.
+- **JavaScript**: To implement the functionality of the stopwatch.
