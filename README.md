@@ -1,4 +1,4 @@
-## Task-02: Stopwatch Web Application
+## Stopwatch Web Application
 
 ### Description
 
